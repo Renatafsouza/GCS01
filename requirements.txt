@@ -6,7 +6,6 @@ configobj==5.0.6
 cryptography==1.2.3
 Django==1.11.4
 django-extensions==1.8.1
-duplicity==0.7.6
 ecdsa==0.13
 enum34==1.1.2
 feedparser==5.1.3
