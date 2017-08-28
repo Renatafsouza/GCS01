@@ -1,0 +1,1 @@
+web: gunicorn GCS01.wsgi --log-file -
